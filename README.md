@@ -97,5 +97,6 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
   <br />
 </details>
 
-## Views and Followers:
+### Views and Followers:
+
 <img src="https://komarev.com/ghpvc/?username=Lukejdjd"> <a href="https://github.com/Lukejdjd?tab=followers"><img src="https://img.shields.io/github/followers/Lukejdjd?label=Followers&style=social" alt="GitHub Badge"></a>
