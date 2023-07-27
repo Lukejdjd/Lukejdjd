@@ -71,6 +71,13 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
+  <style>
+    /* Custom CSS to remove the default margin-bottom for the open details */
+    details[open] {
+      margin-bottom: 0;
+    }
+  </style>
+
   <br />
   <table>
     <thead align="center">
