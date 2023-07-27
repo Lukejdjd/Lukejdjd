@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lukejdjd.github.io/)
 
-### Glad to see you here! &nbsp; ![]([https://visitor-badge.glitch.me/badge?page_id=Lukejdjd.visitor-badge](https://visitor-badge.glitch.me/badge?page_id=Lukejdjd.visitor-badge&left_color=green&right_color=red))
+### Glad to see you here! &nbsp; ([https://visitor-badge.glitch.me/badge?page_id=Lukejdjd.visitor-badge](https://visitor-badge.glitch.me/badge?page_id=Lukejdjd.visitor-badge&left_color=green&right_color=red))
 
 As a Computer Science enthusiast, my journey into the world of technology began with the Roblox platform. It was on this platform that my passion for learning and exploring new technologies began. Through creating interactive experiences, I realized that technology could be used to solve real-life problems and bring joy to users.
 
