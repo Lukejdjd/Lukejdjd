@@ -10,46 +10,14 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 
 ### Languages and Tools:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://luau-lang.org/">
-        <code><img height="27" src="https://luau-lang.org/assets/images/luau-88.png" alt="luau"></code>
-      </a>
-      <br>Luau
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/">
-        <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
-        <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" >
-        <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-      </a>
-      <br>HTML
-    </td>
-  </tr>
-</table>
+| Language     | Logo                                              | Website                                      |
+|--------------|---------------------------------------------------|----------------------------------------------|
+| Luau         | ![Luau](https://luau-lang.org/assets/images/luau-88.png) | [https://luau-lang.org/](https://luau-lang.org/)   |
+| Python       | ![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) | [https://www.python.org/](https://www.python.org/)   |
+| JavaScript   | ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   |
+| Node.js      | ![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png) | [https://nodejs.org/](https://nodejs.org/)   |
+| CSS          | ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)   |
+| HTML         | ![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)   |
 
 ### Projects and Dev Stuffs:
 
