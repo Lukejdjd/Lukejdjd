@@ -8,7 +8,7 @@ As a Computer Science enthusiast, my journey into the world of technology began 
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then, I have pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then, I have pushed **{{ 100 }}**+ commits, opened **{{ 0 }}**+ issues, submitted **{{ 0 }}**+ pull requests, created **{{ 0  }}**+ gists, and contributed to **{{ 5 }}**+ public repositories.
 
 ### Languages and Tools:
 
