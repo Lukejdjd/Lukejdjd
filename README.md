@@ -92,6 +92,22 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/Discord-Meme?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/Discord-Meme?style=flat-square"/></td>
       </tr>
+      <tr>
+	      <td><a href="https://github.com/Lukejdjd/lukejdjd.github.io"><b>🌐 Website</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/lukejdjd.github.io?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/lukejdjd.github.io?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/lukejdjd.github.io?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/lukejdjd.github.io?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/lukejdjd.github.io?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/Lukejdjd/Lukejdjd"><b>📄 README</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/Lukejdjd?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/Lukejdjd?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/Lukejdjd?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/Lukejdjd?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/Lukejdjd?style=flat-square"/></td>
+      </tr>
     </tbody>
   </table>
   <br />
