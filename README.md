@@ -6,7 +6,7 @@
 
 As a Computer Science enthusiast, my journey into the world of technology began with the Roblox platform. It was on this platform that my passion for learning and exploring new technologies began. Through creating interactive experiences, I realized that technology could be used to solve real-life problems and bring joy to users.
 
-Joined Github **{{ 2 }}** years ago.
+Joined Github **2** years ago.
 
 Since then, I have pushed **{{ 100 }}**+ commits, opened **{{ 0 }}**+ issues, submitted **{{ 0 }}**+ pull requests, created **{{ 0  }}**+ gists, and contributed to **{{ 5 }}**+ public repositories.
 
