@@ -4,11 +4,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-As a Computer Science enthusiast, my journey into the world of technology began with the Roblox platform 🕹️. It was on this platform that my passion for learning and exploring new technologies began. From creating interactive experiences, I realized that technology could be used to solve real-life problems ✨ and bring joy to users.
+As a Computer Science enthusiast, my journey into the world of technology began with the Roblox platform. It was on this platform that my passion for learning and exploring new technologies began. Through creating interactive experiences, I realized that technology could be used to solve real-life problems and bring joy to users.
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then, I have pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
 ### Languages and Tools:
 
