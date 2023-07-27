@@ -53,13 +53,14 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 
 ### Projects and Dev Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex-basis: calc(50% - 5px); margin-bottom: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  </div>
+  <div style="flex-basis: calc(50% - 5px); margin-bottom: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </div>
+</div>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
