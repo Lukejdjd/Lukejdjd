@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Luke!](https://github.com/Lukejdjd/)
 
-[![Website Badge](https://img.shields.io/badge/Website-FFCD46?style=flat-square&logo=google-chrome&logoColor=white)](https://lukejdjd.github.io/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lukejdjd/)
+[![Website Badge](https://img.shields.io/badge/Website-DD5144?style=flat-square&logo=google-chrome&logoColor=white)](https://lukejdjd.github.io)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lukejdjd)
 [![Roblox Badge](https://img.shields.io/badge/Roblox-00b2ff?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/users/1111528852/profile)
 
 ### Glad to see you here!
