@@ -66,4 +66,4 @@ Since then, I have pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ i
 </details>
 
 ## Views and Followers:
-<img src="https://komarev.com/ghpvc/?username=Lukejdjd"> <a href="https://github.com/Lukejdjd?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=Lukejdjd"> <a href="https://github.com/Lukejdjd?tab=followers"><img src="https://img.shields.io/github/followers/Lukejdjd?label=Followers&style=social" alt="GitHub Badge"></a>
