@@ -106,7 +106,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/Lukejdjd?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/Lukejdjd?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/Lukejdjd?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/Lukejdjd?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
