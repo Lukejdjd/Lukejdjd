@@ -13,37 +13,37 @@ I Joined Github **2** years ago. Since then, I have pushed **100**+ commits, and
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <code><img height="27" src="https://luau-lang.org/assets/images/luau-88.png" alt="luau"></code>
       </a>
       <br>Luau
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="" >
         <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="" >
         <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
       </a>
       <br>HTML
