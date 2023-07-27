@@ -71,6 +71,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
+  <br />
   <table>
     <thead align="center">
       <tr border: none;>
