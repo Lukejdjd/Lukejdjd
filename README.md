@@ -59,7 +59,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&hide_border=true%%&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&hide_border=true&include_all_commits=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </details>
 
