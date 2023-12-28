@@ -59,10 +59,18 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
   <summary><b>⚡ Github Stats</b></summary>
 <br />
 
-[![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
-[![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
-[![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
-[![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+<a href="https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only" />
+</a>
 
 </details>
 
@@ -72,6 +80,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 
 [![Lukejdjd's GitHub Streaks-Dark](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-dark-mode-only)
 [![Lukejdjd's GitHub Streaks-Light](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-light-mode-only)
+
 </details>
 
 <details>
