@@ -58,10 +58,10 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-[![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&hide_border=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
-[![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
-[![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
-[![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
+[![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&hide_border=false&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
+[![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
+[![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
+[![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
 
 </details>
 
