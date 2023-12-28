@@ -57,6 +57,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
+<br />
 
 [![Lukejdjd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only)
 [![Lukejdjd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only)
@@ -65,12 +66,12 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 
 </details>
 
-<details>	
+<details>
   <summary><b>☄️ Github Streaks</b></summary>
+<br />
 
 [![Lukejdjd's GitHub Streaks-Dark](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=dark#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-dark-mode-only)
 [![Lukejdjd's GitHub Streaks-Light](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=dark#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-light-mode-only)
-
 </details>
 
 <details>
