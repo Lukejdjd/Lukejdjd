@@ -67,7 +67,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&hide_border=true&theme=transparent" />
 </details>
 
 <details>
