@@ -77,7 +77,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
   <summary><b>☄️ Github Streaks</b></summary>
 <br/>
 
-[![Lukejdjd's GitHub Streaks-Dark](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=transparent#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-dark-mode-only)
+[![Lukejdjd's GitHub Streaks-Dark](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=github-dark-blue#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-dark-mode-only)
 [![Lukejdjd's GitHub Streaks-Light](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-light-mode-only)
 </details>
 
