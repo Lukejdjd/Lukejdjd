@@ -62,13 +62,13 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark#gh-dark-mode-only"/>
 </a>
-<a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
+<a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only"/>
 </a>
-<a href="https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=github_dark"/>
+<a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only"/>
 </a>
-<a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
+<a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
 </a>
 </details>
