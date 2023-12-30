@@ -57,26 +57,25 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<br />
+<br/>
 
 <a href="https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
 </a>
 <a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only"/>
 </a>
 <a href="https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 <a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
 </a>
-
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
-<br />
+<br/>
 
 [![Lukejdjd's GitHub Streaks-Dark](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=transparent#gh-dark-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-dark-mode-only)
 [![Lukejdjd's GitHub Streaks-Light](https://github-readme-streak-stats.herokuapp.com/?user=Lukejdjd&theme=default#gh-light-mode-only)](https://github.com/Lukejdjd/github-readme-streak-stats#gh-light-mode-only)
@@ -86,7 +85,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
-  <br />
+  <br/>
   <table>
     <thead align="center">
       <tr border: none;>
