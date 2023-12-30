@@ -60,7 +60,7 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
 <br/>
 
 <a href="https://github.com/Lukejdjd/github-readme-stats#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/Lukejdjd/github-readme-stats#gh-light-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default#gh-light-mode-only"/>
