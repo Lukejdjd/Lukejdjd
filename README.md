@@ -8,7 +8,7 @@
 
 As someone learning Computer Science, I started technology with the Roblox platform. It was on this platform that my passion for learning and trying new technologies began. By creating games, I realized that technology could be used to solve problems and bring joy to users.
 
-I joined Github **2** years ago. Since then, I have pushed **100**+ commits and contributed to **5**+ public repositories.
+I joined Github **3** years ago. Since then, I have pushed **100**+ commits and contributed to **5**+ public repositories.
 
 ### Languages and Tools:
 
