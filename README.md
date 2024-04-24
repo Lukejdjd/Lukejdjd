@@ -97,6 +97,14 @@ I joined Github **2** years ago. Since then, I have pushed **100**+ commits and 
       </tr>
     </thead>
     <tbody>
+    <tr>
+	      <td><a href="https://github.com/Lukejdjd/Roblox-Audio-Fetcher"><b>🔊 Roblox Audio Fetcher</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square"/></td>
+      </tr>
       <tr>
 	      <td><a href="https://github.com/Lukejdjd/Discord-Meme"><b>📸 Discord Meme</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/Discord-Meme?style=flat-square&labelColor=343b41"/></td>
