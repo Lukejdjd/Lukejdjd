@@ -98,20 +98,20 @@ I joined Github **3** years ago. Since then, I have pushed **100**+ commits and 
     </thead>
     <tbody>
     <tr>
-	      <td><a href="https://github.com/Lukejdjd/Roblox-Audio-Fetcher"><b>🔊 Roblox Audio Fetcher</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/Roblox-Audio-Fetcher?style=flat-square"/></td>
+	      <td><a href="https://github.com/Lukejdjd/roblox-audio-fetcher"><b>🔊 Roblox Audio Fetcher</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/roblox-audio-fetcher?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/roblox-audio-fetcher?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/roblox-audio-fetcher?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/roblox-audio-fetcher?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/roblox-audio-fetcher?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/Lukejdjd/Discord-Meme"><b>📸 Discord Meme</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/Discord-Meme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/Discord-Meme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/Discord-Meme?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/Discord-Meme?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/Discord-Meme?style=flat-square"/></td>
+	      <td><a href="https://github.com/Lukejdjd/discord-meme"><b>📸 Discord Meme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Lukejdjd/discord-meme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Lukejdjd/discord-meme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Lukejdjd/discord-meme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lukejdjd/discord-meme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Lukejdjd/discord-meme?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/Lukejdjd/lukejdjd.github.io"><b>🌐 Website</b></a></td>
