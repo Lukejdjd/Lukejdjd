@@ -16,7 +16,7 @@ I joined Github **3** years ago. Since then, I have pushed **100**+ commits and 
 <tr>
 <td align="center" width="96">
 <a href="https://luau-lang.org/">
-<code><img height="27" src="https://luau-lang.org/assets/images/luau-88.png" alt="luau"></code>
+<code><img height="27" src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" alt="luau"></code>
 </a>
 <br>Luau
 </td>
