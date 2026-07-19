@@ -60,11 +60,11 @@ I joined Github **3** years ago. Since then, I have pushed **100**+ commits and 
 <br/>
 
 <a href="https://github.com/Lukejdjd/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/Lukejdjd/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 
 </details>
