@@ -59,12 +59,12 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 <summary><b>⚡ Github Stats</b></summary>
 <br/>
 
-<a href="https://github.com/Lukejdjd/github-readme-stats">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
+<a href="https://github.com/Lukejdjd">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
 </a>
 
-<a href="https://github.com/Lukejdjd/github-readme-stats">
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"/>
+<a href="https://github.com/Lukejdjd">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 
 </details>
@@ -72,6 +72,12 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 <details>
 <summary><b>☄️ Github Streaks</b></summary>
 <br/>
+
+<a href="https://github.com/Lukejdjd">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Lukejdjd&theme=github_dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</a>
+
+</details>
 
 [![Lukejdjd's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=Lukejdjd&theme=github_dark)](https://github.com/Lukejdjd)
 
