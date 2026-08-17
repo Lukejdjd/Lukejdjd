@@ -1,14 +1,14 @@
 ## Hey 👋, I'm [Luke!](https://github.com/Lukejdjd/)
 
-[![Website Badge](https://img.shields.io/badge/Website-DD5144?style=flat-square&logo=google-chrome&logoColor=white)](https://lukejdjd.github.io)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lukejdjd)
-[![Roblox Badge](https://img.shields.io/badge/Roblox-00b2ff?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/users/1111528852/profile)
+[![Website Badge](https://img.shields.io/badge/Website-DD5144?style=flat-square\&logo=google-chrome\&logoColor=white)](https://lukejdjd.github.io)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Lukejdjd)
+[![Roblox Badge](https://img.shields.io/badge/Roblox-00b2ff?style=flat-square\&logo=roblox\&logoColor=white)](https://www.roblox.com/users/1111528852/profile)
 
 ### Glad to see you here!
 
 As someone learning Computer Science, I started technology with the Roblox platform. It was on this platform that my passion for learning and trying new technologies began. By creating games, I realized that technology could be used to solve problems and bring joy to users.
 
-I joined Github **5** years ago. Since then, I have pushed **200**+ commits and contributed to **5**+ public repositories.
+I joined GitHub **5** years ago. Since then, I have pushed **200+** commits and contributed to **5+** public repositories.
 
 ### Languages and Tools:
 
@@ -20,30 +20,35 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 </a>
 <br>Luau
 </td>
+
 <td align="center" width="96">
 <a href="https://www.python.org/">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
 </a>
 <br>Python
 </td>
+
 <td align="center" width="96">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
 </a>
 <br>JavaScript
 </td>
+
 <td align="center" width="96">
 <a href="https://nodejs.org/">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code>
 </a>
 <br>Node.js
 </td>
+
 <td align="center" width="96">
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
 </a>
 <br>CSS
 </td>
+
 <td align="center" width="96">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
@@ -56,30 +61,68 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 ### Projects and Dev Stuffs:
 
 <details>
-<summary><b>⚡ Github Stats</b></summary>
+<summary><b>⚡ GitHub Stats</b></summary>
 <br/>
 
 <a href="https://github.com/Lukejdjd">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default"
+    alt="Luke's GitHub Stats"
+  />
+</picture>
 </a>
 
 <a href="https://github.com/Lukejdjd">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=default"
+    alt="Luke's Top Languages"
+  />
+</picture>
 </a>
 
 </details>
 
 <details>
-<summary><b>☄️ Github Streaks</b></summary>
+<summary><b>☄️ GitHub Streaks</b></summary>
 <br/>
 
 <a href="https://github.com/Lukejdjd">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Lukejdjd&theme=github_dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=default"
+    alt="Luke's GitHub Streak"
+  />
+</picture>
 </a>
-
-</details>
-
-[![Lukejdjd's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=Lukejdjd&theme=github_dark)](https://github.com/Lukejdjd)
 
 </details>
 
@@ -99,6 +142,7 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 <td><b>👨‍💻 Language</b></td>
 </tr>
 </thead>
+
 <tbody>
 
 <tr>
@@ -153,4 +197,4 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 
 ### Views and Followers:
 
-<img src="https://komarev.com/ghpvc/?username=Lukejdjd"> <a href="https://github.com/Lukejdjd?tab=followers"><img src="https://img.shields.io/github/followers/Lukejdjd?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=Lukejdjd" alt="Profile Views"> <a href="https://github.com/Lukejdjd?tab=followers"><img src="https://img.shields.io/github/followers/Lukejdjd?label=Followers&style=social" alt="GitHub Followers"></a>
