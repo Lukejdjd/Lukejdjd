@@ -73,7 +73,7 @@ I joined Github **5** years ago. Since then, I have pushed **200**+ commits and 
 <summary><b>☄️ Github Streaks</b></summary>
 <br/>
 
-[![Lukejdjd's GitHub Streak](https://streak-stats.demolab.com/?user=Lukejdjd&theme=github-dark-blue)](https://github.com/Lukejdjd)
+[![Lukejdjd's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=Lukejdjd&theme=github_dark)](https://github.com/Lukejdjd)
 
 </details>
 
