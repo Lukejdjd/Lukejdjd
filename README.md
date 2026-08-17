@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-Coding is one of my hobbies, and I got my start with technology through the Roblox platform. Creating games and experimenting with Luau sparked my interest in programming and eventually led me to explore other languages, tools, and technologies.
+Coding is one of my hobbies. My interest in creating games grew through the Roblox platform, where I developed a passion for game development that eventually led me into coding. Since then, I've expanded beyond Roblox, exploring different programming languages, tools, and technologies while building projects of my own.
 
 I enjoy building projects, experimenting with new ideas, and learning new things along the way.
 
