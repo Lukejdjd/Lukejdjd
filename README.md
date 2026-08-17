@@ -6,7 +6,9 @@
 
 ### Glad to see you here!
 
-As someone learning Computer Science, I started technology with the Roblox platform. It was on this platform that my passion for learning and trying new technologies began. By creating games, I realized that technology could be used to solve problems and bring joy to users.
+Coding is one of my hobbies, and I got my start with technology through the Roblox platform. Creating games and experimenting with Luau sparked my interest in programming and eventually led me to explore other languages, tools, and technologies.
+
+I enjoy building projects, experimenting with new ideas, and learning new things along the way.
 
 I joined GitHub **5** years ago. Since then, I have pushed **200+** commits and contributed to **5+** public repositories.
 
@@ -76,7 +78,7 @@ I joined GitHub **5** years ago. Since then, I have pushed **200+** commits and 
   />
   <img
     height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=default"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Lukejdjd&show_icons=true&theme=github_dark"
     alt="Luke's GitHub Stats"
   />
 </picture>
@@ -94,7 +96,7 @@ I joined GitHub **5** years ago. Since then, I have pushed **200+** commits and 
   />
   <img
     height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=default"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukejdjd&layout=compact&langs_count=8&theme=github_dark"
     alt="Luke's Top Languages"
   />
 </picture>
@@ -107,21 +109,11 @@ I joined GitHub **5** years ago. Since then, I have pushed **200+** commits and 
 <br/>
 
 <a href="https://github.com/Lukejdjd">
-<picture>
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img
     height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=default"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Lukejdjd&theme=github_dark"
     alt="Luke's GitHub Streak"
   />
-</picture>
 </a>
 
 </details>
